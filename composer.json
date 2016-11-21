@@ -1,0 +1,36 @@
+{
+    "name": "kulyk/yii2-novaposhta-module",
+    "description": "Yii2 Novaya Pochta (http://novaposhta.ua) module to get cost for your cargo",
+    "version": "0.0.9",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "nova poshta",
+        "novaya oochta",
+        "cargo cost"
+    ],
+    "homepage": "https://github.com/akulyk/yii2-novaposhta",
+    "time": "2016-11-21",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Aleksandr Kulyk",
+            "email": "akulyk@yandex.ua",
+            "homepage": "http://kulyk.dp.ua",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/akulyk/yii2-novaposhta/issues",
+        "source": "https://github.com/akulyk/yii2-novaposhta"
+    },
+    "require": {
+        "yiisoft/yii2": "~2"
+     
+    },
+    "autoload": {
+        "psr-4": {
+            "kulyk\\yii\\modules\\novaposhta\\": ""
+        }
+    }
+}
