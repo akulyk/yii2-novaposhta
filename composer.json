@@ -6,12 +6,12 @@
     "keywords": [
         "yii2",
         "nova poshta",
-        "novaya oochta",
+        "novaya pochta",
         "cargo cost"
     ],
     "homepage": "https://github.com/akulyk/yii2-novaposhta",
     "time": "2016-11-21",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Aleksandr Kulyk",
