@@ -2,4 +2,4 @@
 novaya pochta module for yii2 framwork
 
 the module is under development
-I strongly reccomed to avoid of using it 
+I strongly recomend to avoid of using it 
