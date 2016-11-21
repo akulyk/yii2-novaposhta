@@ -1,5 +1,5 @@
 {
-    "name": "kulyk/yii2-novaposhta-module",
+    "name": "akulyk/yii2-novaposhta-module",
     "description": "Yii2 Novaya Pochta (http://novaposhta.ua) module to get cost for your cargo",
     "version": "0.0.9",
     "type": "yii2-extension",
